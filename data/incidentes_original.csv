@@ -1,0 +1,56 @@
+id,turno_id,fecha_hora,notas,categoria,severidad
+2fb2fe02-c22e-4dd2-b27b-3d0f3fcff8af,0fabc47e-aff8-4d28-825b-0d3aa8f77ef2,2026-07-16 11:26:00,Se detectó movimiento inusual en el sector A durante la ronda nocturna.,Robo,5
+8b482c64-0585-4926-9287-8b5b1da52f97,5dae8be6-5eda-49db-ba54-636398436134,2026-08-21 21:33:00,Se detectó una fuga de agua en la planta baja que podría afectar el sistema eléctrico.,Vandalismo,1
+ee723510-a593-4993-a468-ee479e94c7b9,7cac5b1b-3e60-460e-91d5-d09c0a226a57,2026-07-03 05:39:00,Empleado reportó pérdida de equipo electrónico en el área de oficinas.,Falla eléctrica,5
+22af77c5-f12d-4cc2-9ce6-be2be443b6a2,ff19375c-09b2-4796-abee-be3fd752c4d7,2026-08-23 04:28:00,Un vehículo desconocido permaneció estacionado por más de 8 horas sin movimiento.,Daño a propiedad,3
+d40db46c-74cb-44d4-bf12-a42e82ff3bab,fb97db51-47fd-43bf-bf09-2d30b8c0bd8c,2026-08-10 18:49:00,Se activó la alarma de intrusión en la zona 2 sin causa aparente.,,
+5b859446-9d7a-45c4-a55b-0dd6a5c4c38e,34650e43-d06b-45f9-95cb-8a9d749d82e1,2026-07-15 10:54:00,Persona sospechosa merodeando cerca de la entrada principal alrededor de las 9:30 PM.,,
+981bec54-065f-48cb-9984-8bab38e0250b,4b3f21a1-a443-49d1-ada3-caa3dd6a400c,2026-08-11 21:00:00,Guardia reportó ruidos extraños en el estacionamiento nivel 2.,Acceso no autorizado,3
+e4c25e54-b2c5-4eed-917d-2b1d7d1b63a4,c2726e66-d764-4a9f-b2f7-04d1691a2514,2026-08-04 01:28:00,Guardia reportó ruidos extraños en el estacionamiento nivel 4.,Falla eléctrica,5
+68722273-fd66-4e44-a349-79d101ce28da,6346f467-618d-47c1-8b1b-fa40f9261361,2026-08-23 17:55:00,Se reportó un olor a humo proveniente del área de estacionamiento.,Alarma activada,2
+89e821e7-94e9-4116-a978-5877984d7faf,5679c27c-18bc-4530-bc5c-0481a43a47d0,2026-07-11 01:27:00,Se observaron grafitis nuevos en el muro perimetral del lado norte.,Emergencia médica,4
+2947ed12-3988-4bab-b57d-10970a7c3b4f,7b9ee9fc-54f7-4903-b0c8-a69676f2ec74,2026-08-25 02:54:00,Conflicto verbal entre dos personas en la recepción del edificio.,Intrusión perimetral,5
+28c1dc75-867e-451c-ac29-c1464739035a,ffdc4d5a-6248-4358-80b8-3b88cad3ca01,2026-08-12 23:32:00,Individuo sin identificación intentó ingresar por la puerta sur.,Daño a propiedad,1
+a2f4a2d9-b977-4c27-a8db-c97edde3f5b2,83d56bee-836e-4cf0-a8b7-8f95dd0f4be6,2026-07-28 21:13:00,Se encontró una puerta de emergencia abierta sin justificación en edificio A.,Acceso no autorizado,2
+9d472469-4219-422c-9819-45b4314f1ec0,085dd0ee-6947-4a34-9a51-240ae02c4f6c,2026-08-22 08:22:00,Individuo sin identificación intentó ingresar por la puerta principal.,Emergencia médica,5
+36afaa1e-d463-4514-b0b6-39e37308c198,8b135c2b-2807-4285-ad7b-04536f69da02,2026-07-01 22:55:00,Ronda retrasada 7 minutos por bloqueo de acceso en la escalera de servicio.,Falla eléctrica,5
+c2f85995-8338-4b20-94c8-016ac0afb2ff,591b80a1-70af-4111-bc24-0e11766afbfb,2026-07-18 08:34:00,Se reportó un olor a humo proveniente del área de bodega.,Intrusión perimetral,5
+17afc6cb-79f5-4c3e-b771-00222ae659b0,c79bc93f-578b-40b9-8734-65c9212d80f9,2026-07-06 09:45:00,Visitante presentó un cuadro de mareo y se solicitó apoyo médico.,Falla eléctrica,2
+4116bfeb-e062-4c00-ab92-56af5ea9f51a,d3e3f971-e3b9-4e36-9227-5eea72d52a60,2026-08-17 12:20:00,"Cortocircuito detectado en tablero eléctrico del sótano, se aisló el área.",Persona sospechosa,3
+f1dac809-42b4-44b5-973c-f85180eee53d,e94ea605-abd1-467a-a019-11f3b9e35b2b,2026-08-21 05:48:00,Visitante presentó un cuadro de mareo y se solicitó apoyo médico.,Falla eléctrica,5
+bf3f4d02-fe73-4838-b7c2-03d2484439c6,28221fe0-e207-4251-93c3-d6660fdafd64,2026-08-26 04:46:00,Guardia reportó ruidos extraños en el estacionamiento nivel 4.,,
+fdd743d1-553f-4908-8037-4de8b6c547d8,ffbd087d-b057-4752-8f00-0f12e644b6da,2026-07-02 11:39:00,"Falla en el sistema de cámaras del sector C, se reportó a mantenimiento.",Emergencia médica,4
+d1576629-d9c1-4912-9a97-1cdecf227c9a,faa5d3e0-4c73-486f-a8cf-5b3c121c2577,2026-08-13 06:15:00,Se observaron grafitis nuevos en el muro perimetral del lado norte.,Acceso no autorizado,1
+ea7b0dd0-3e4c-4b67-af0f-cc39d5ecb529,9797f42e-6eed-4c1f-bb5c-32a0a72f5c96,2026-07-29 09:43:00,Se observaron grafitis nuevos en el muro perimetral del lado norte.,Incendio,5
+66e0a8b5-f2d7-4f8c-8b7d-966b070bde7d,cd007569-6f19-4fa1-802c-723a6813cb7e,2026-08-08 02:22:00,Ronda retrasada 13 minutos por bloqueo de acceso en la escalera de servicio.,Incendio,3
+7fa3b3ec-476b-4747-b4a6-235734e87433,2aba97c1-c6c7-411f-91a0-1351b57f25db,2026-08-27 10:32:00,Se detectó movimiento inusual en el sector D durante la ronda nocturna.,Persona sospechosa,1
+c8e42f11-5ad0-4113-9058-35485a43d90f,a9c22b97-3ced-4d0a-bfbe-c567429b40b2,2026-07-14 06:07:00,Se reportó un olor a humo proveniente del área de estacionamiento.,Daño a propiedad,4
+68caeb92-d104-420c-ac56-ca7354301938,d6b2ecae-9769-4f73-92f4-673610cb2bef,2026-07-26 05:10:00,Se reportó un olor a humo proveniente del área de cocina.,Vandalismo,1
+b7afd12a-27b7-4786-86e0-424c28e115c0,a9fd4df0-ef60-4133-addf-775635e476ca,2026-08-29 22:42:00,Guardia reportó ruidos extraños en el estacionamiento nivel 2.,Robo,2
+f900503a-2ce1-47cc-b3e4-a3836a15b5b1,2ee0d630-278c-450a-96c6-f66117a9525b,2026-07-22 13:01:00,"Cortocircuito detectado en tablero eléctrico del sótano, se aisló el área.",Altercado,4
+66327d69-73ac-4c32-b9a0-844e57c25741,1f9d3467-0290-4fdd-87e1-fc3ace763ab1,2026-08-21 21:39:00,Un vehículo desconocido permaneció estacionado por más de 4 horas sin movimiento.,Robo,1
+29e09f3a-a75d-42db-bab8-9f16f795e219,eb7f11cd-5646-4623-9096-a2c2d3072250,2026-08-25 07:55:00,Se detectó una fuga de agua en la planta baja que podría afectar el sistema eléctrico.,Robo,3
+c7239138-0cac-47d7-b76b-6815a404ba26,9c5aa193-8848-4af5-a2cc-9d021d850466,2026-07-05 14:32:00,Se reportó un olor a humo proveniente del área de cocina.,Intrusión perimetral,5
+6a31c713-0ffa-46ab-83d8-a900a7f0d598,c96dda0a-8f9c-44d5-ba19-2afa35972c52,2026-07-07 14:34:00,"Falla en el sistema de cámaras del sector A, se reportó a mantenimiento.",,
+0ae1eadc-799e-4ca6-aac2-adde7db17610,a7a513ab-0804-4014-b171-e5e7bccfdf4f,2026-08-19 20:46:00,Se detectó una fuga de agua en la planta baja que podría afectar el sistema eléctrico.,Acceso no autorizado,3
+6810ee0d-bd41-4e4f-9b6d-5b144b3e66d9,94b3c6a5-5161-4e9e-b932-8eb5a00be983,2026-07-04 10:48:00,Persona sospechosa merodeando cerca de la entrada principal alrededor de las 3:15 AM.,Daño a propiedad,2
+f37fcbf4-f9dd-4666-b88b-1724ca180373,2ad12548-ebf1-4483-aff9-b3b224033ff6,2026-07-04 21:12:00,Se detectó una fuga de agua en la planta baja que podría afectar el sistema eléctrico.,,
+a46b96f8-d9d1-4c14-b7ee-9ce8bcecd161,6a5fb6d5-aa8f-4996-b139-09a0f6200789,2026-08-05 05:55:00,Conflicto verbal entre dos personas en la recepción del edificio.,Persona sospechosa,2
+afe72f16-83f9-447c-908a-c6597adb31d3,de8b63e1-b3a9-4cec-936d-b4333bb1dd7b,2026-08-03 22:18:00,Se activó la alarma de intrusión en la zona 1 sin causa aparente.,Incendio,4
+217cfd57-de48-43aa-a0f8-bb020a696bf9,e5afeaf0-be26-4100-a0c4-ec52dd54a237,2026-07-01 14:47:00,Se encontró una puerta de emergencia abierta sin justificación en edificio B.,Falla eléctrica,2
+15811c04-73f3-4f24-9ec8-e04280039105,3904c748-d68f-4f8d-a887-967a3672cdf1,2026-07-14 22:35:00,"Falla en el sistema de cámaras del sector A, se reportó a mantenimiento.",Acceso no autorizado,1
+a6714c68-fd8a-4d59-9e01-f09b0159e714,cb73788d-f25e-477d-b8e2-06a30cdde338,2026-07-17 15:23:00,Se encontró un vidrio roto en la ventana del piso 4.,Daño a propiedad,4
+c99cf6fb-8789-48f3-a4c3-0c4978a5ce70,3ecd08bc-31b6-4c74-ac18-0ead1faf3e50,2026-08-10 08:30:00,Guardia reportó ruidos extraños en el estacionamiento nivel 1.,Falla eléctrica,2
+de504ea4-f8b7-4ce5-9b6c-a339efef5b47,af07c658-43c9-4afb-abea-07f90434fdef,2026-07-31 16:09:00,Visitante presentó un cuadro de mareo y se solicitó apoyo médico.,Falla eléctrica,3
+5eed4227-f398-4c73-9cb5-0b20d34fe2a2,a7251d5a-6dc4-4de5-8a52-1337eed11703,2026-07-28 22:28:00,Empleado reportó pérdida de equipo electrónico en el área de oficinas.,Vandalismo,4
+e53ea180-df26-430f-95d3-0a6207809d03,de2da8c5-14cc-438b-8da4-0c9c72bd49f9,2026-07-11 23:10:00,Persona sospechosa merodeando cerca de la entrada principal alrededor de las 4:00 PM.,Persona sospechosa,5
+c8df1553-5910-40c5-a92b-5d14f0d0ef78,f9eec10f-1941-4dc1-83c4-b9fc99544416,2026-07-17 07:14:00,Se encontró un vidrio roto en la ventana del piso 7.,Persona sospechosa,3
+020a8b8f-c9fe-4eba-b663-90b6f949e7d0,af848fc4-1fef-4ac8-ac51-fbb7168864b9,2026-08-03 18:40:00,"Cortocircuito detectado en tablero eléctrico del sótano, se aisló el área.",Robo,3
+3d801670-f0a3-4e80-8476-edd1751ccc3d,8d2c589f-811f-4cc2-a771-d661423e7c85,2026-08-23 21:48:00,Un vehículo desconocido permaneció estacionado por más de 6 horas sin movimiento.,Incendio,1
+6f7b7779-5aca-437a-90a7-1ad33c47641f,4c194a2f-6ba3-480c-a493-1c9c63fe83f6,2026-08-13 23:17:00,Se detectó una fuga de agua en la planta baja que podría afectar el sistema eléctrico.,Falla eléctrica,3
+96afc97b-05fc-4b0a-99bd-2317e453ea3b,1134f1d3-5ddf-4c66-a470-3739dec7fb63,2026-07-24 13:37:00,Se realizó evacuación parcial del tercer piso por activación de rociadores.,Intrusión perimetral,3
+f89cc696-c99f-4f35-a9d2-104334c5e141,580d26ec-3b60-4eb4-abaa-ca4222ccd5fe,2026-07-22 12:29:00,Guardia reportó ruidos extraños en el estacionamiento nivel 4.,,
+862b3dd5-cbeb-4bc2-93ed-e046bcfba80f,5366b2e1-9f63-48b7-bf7b-6f5d13a009d9,2026-08-07 16:23:00,Se activó la alarma de intrusión en la zona 3 sin causa aparente.,Alarma activada,5
+59e2ef76-81d2-4c6b-9c32-2fc37a407d9f,5223c3e1-4602-48b8-a4bd-edb3feb99a6f,2026-08-17 13:14:00,Un vehículo desconocido permaneció estacionado por más de 4 horas sin movimiento.,Daño a propiedad,3
+761d30aa-36a4-4320-92b5-ad1337cdab16,e81b25b7-688d-49c4-ba3b-fe7405dd3ff7,2026-07-12 06:28:00,Guardia notificó la presencia de un animal silvestre dentro de las instalaciones.,Intrusión perimetral,1
+f280dd05-2dec-4600-acd6-03343d87ff9e,b3ba1cbd-c35e-4d7d-91f9-13a7348ce281,2026-08-13 20:18:00,Se observaron grafitis nuevos en el muro perimetral del lado norte.,Falla eléctrica,2

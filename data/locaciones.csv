@@ -1,0 +1,51 @@
+id,nombre,direccion,nivel_riesgo
+80ba3dfc-2b83-4307-b116-853e48e46533,Plaza Comercial Galerías,"Av. Vallarta 3959, Zapopan, Jalisco",1
+bd9f3ac2-e21d-40dc-b179-09e7a41e8d67,Torre Corporativa Andares,"Blvd. Puerta de Hierro 4965, Zapopan, Jalisco",3
+e90449da-d10b-48ee-9b48-90089c366950,Hospital Regional IMSS,"Belisario Domínguez 1000, Guadalajara, Jalisco",3
+f77813d4-2982-4545-9501-76811094ee36,Centro de Distribución Walmart,"Carretera a El Salto Km 15, Tlajomulco, Jalisco",2
+f7d9988e-09ed-4b6c-aab4-bf55eaf2d82e,Parque Industrial Tecnológico,"Av. del Bosque 1001, Zapopan, Jalisco",1
+8c60efd4-96c6-481b-9326-661f70bfa6ec,Residencial Puerta Real,"Av. Santa Margarita 3200, Zapopan, Jalisco",2
+6b776a29-cffa-4f6a-af0d-19c7a13a9eba,Universidad Autónoma Campus Sur,"Camino Antiguo a Tesistán 235, Zapopan, Jalisco",5
+1489b83e-3848-48cd-8803-200c40bd4d66,Fraccionamiento Los Robles,"Calle Encino 120, Tlaquepaque, Jalisco",1
+4bc2d83c-135b-44d7-b9b9-616bff050275,Edificio Gobierno Municipal,"Av. Hidalgo 400, Centro, Guadalajara, Jalisco",1
+89983669-33b8-4ee6-b47b-0a8bc950f5c0,Almacén Industrial Zona Norte,"Periférico Norte 7800, Zapopan, Jalisco",4
+5de0159a-dcaa-45ac-90e5-b7cceba8cb9c,Centro Comercial Midtown,"Av. México 2500, Guadalajara, Jalisco",1
+d55e62de-e931-497f-88fc-69dbfb2bf960,Fábrica Textil La Moderna,"Calle Industria 580, Tlaquepaque, Jalisco",5
+dc7f077d-d153-4386-baf2-d4ee078616ac,Condominio Torres del Parque,"Av. Patria 1200, Zapopan, Jalisco",2
+298a919c-dc14-4111-8399-7e2a2490f3bf,Escuela Preparatoria #12,"Calle Reforma 890, Guadalajara, Jalisco",2
+dce1b20b-af0d-4813-9298-46046c7aa101,Bodega Mercantil del Sur,"Carretera Chapala Km 8, Tlajomulco, Jalisco",4
+17904102-eeb2-4ca9-a932-0f83b6c4000f,Corporativo Flex Tower,"Av. Américas 1536, Guadalajara, Jalisco",5
+7b87dec8-eadf-422d-99d9-cb64126a50fe,Clínica Santa María,"Calle Salud 200, Zapopan, Jalisco",2
+2533d865-3672-4ad0-a8ce-a6974eda4dd5,Hotel Fiesta Americana,"Av. Aurelio Aceves 225, Guadalajara, Jalisco",3
+f003a063-c2a7-43b0-9a76-60d1ce7ce440,Banco Nacional Sucursal Centro,"Av. Juárez 975, Centro, Guadalajara, Jalisco",5
+6bc835ba-0334-4271-a269-ea36822d5c37,Estadio de Fútbol Arena GDL,"Calzada Independencia 1500, Guadalajara, Jalisco",5
+df632432-8115-491f-8b7d-66ad3610f50f,Centro de Convenciones Expo,"Av. Mariano Otero 1499, Zapopan, Jalisco",4
+df446cbb-dee4-481f-8a00-c2628f99b022,Supermercado Soriana Norte,"Periférico Norte 3500, Zapopan, Jalisco",2
+02921446-f6cb-46dc-8b2a-8278209d02fb,Planta Automotriz Honda,"Carretera El Salto-La Capilla Km 3, El Salto, Jalisco",5
+bc57f981-4f1b-4452-bfdb-6e8dbb4a2c75,Farmacéutica Genomma Lab,"Av. Lázaro Cárdenas 2600, Zapopan, Jalisco",2
+7019b11e-fabe-4980-b67c-9fa1224a6d22,Residencial Valle Imperial,"Calle Olivo 450, Zapopan, Jalisco",3
+de934c04-97d3-4fab-83a3-5e05ef6316c8,Oficinas SAT Guadalajara,"Av. 16 de Septiembre 840, Centro, Guadalajara, Jalisco",4
+f7d9feb9-5d09-4bba-a23f-d2c97a37573c,Mercado de Abastos,"Calzada Lázaro Cárdenas 3300, Guadalajara, Jalisco",3
+9ee297cf-c87f-4f48-9956-862e09094abb,Aeropuerto Miguel Hidalgo,"Carretera Guadalajara-Chapala Km 17, Tlajomulco, Jalisco",4
+56bef8ff-c39c-408d-a636-4c9e55f6f516,Parque Metropolitano,"Calle Independencia 2200, Zapopan, Jalisco",5
+f42772bc-0c05-4916-b980-a6e01e73d519,Centro Cultural Cabañas,"Calle Cabañas 8, Centro, Guadalajara, Jalisco",4
+ce6946a5-21e4-4d65-9659-d744039d0184,Refinería Pemex Jalisco,"Blvd. Industrial 500, El Salto, Jalisco",1
+41a3ec17-a2df-426d-8b9b-c7dc01060954,Centro de Datos Telmex,"Av. López Mateos Sur 5000, Tlajomulco, Jalisco",2
+10e035b9-bfe8-4d62-8dc2-b195cbac9fce,Fraccionamiento Colomos,"Av. Colomos 2100, Guadalajara, Jalisco",2
+d6d5083c-5426-4784-ad32-3f2ee6e80917,Complejo Deportivo CODE,"Av. Circunvalación Jorge Álvarez 1600, Guadalajara, Jalisco",1
+9aa5c7b2-7077-42ac-96aa-d393105173ec,Cervecería Minerva,"Calle Tequila 1250, Zapopan, Jalisco",3
+d0b30995-0308-4466-abbb-8a5582b7af4e,Biblioteca Pública del Estado,"Periférico Norte 1695, Zapopan, Jalisco",1
+b9f58564-eda4-4fc5-9acd-da5fde05ae6d,Hotel Hilton Centro,"Av. de la Paz 2860, Centro, Guadalajara, Jalisco",5
+93e7efae-7f0a-4709-87bb-2f49aab8615e,Terminal de Autobuses Nueva,"Carretera Zapotlanejo Km 1, Tonalá, Jalisco",5
+5293218a-48a6-447b-b5eb-fb7eaddf7564,Parque Industrial El Bosque,"Av. del Bosque 2500, Zapopan, Jalisco",2
+95ef11ce-a957-45f3-86dc-12cae509a8ed,Museo Regional de Jalisco,"Calle Liceo 60, Centro, Guadalajara, Jalisco",5
+f9bd6e87-a6be-4988-80de-876cd1d3e93c,Club Deportivo Atlas,"Calle Ciprés 1455, Guadalajara, Jalisco",2
+2a2e346f-7b2f-4327-9140-1fcd175ae494,Embotelladora Coca-Cola,"Av. Gobernador Curiel 3200, Guadalajara, Jalisco",1
+d5dcd10e-db52-44cf-bfc3-9138826f28c9,Residencial Bugambilias,"Camino Arenero 1060, Zapopan, Jalisco",1
+7a8a4d1f-25c5-4b05-9f43-4bc56a197b93,Centro Joyero de Jalisco,"Calle Esteban Alatorre 50, Centro, Guadalajara, Jalisco",1
+54c1f50f-9fad-4bbd-8b2a-8d56b37e2c30,Planta Solar GDL Energy,"Carretera Acatlán Km 5, Acatlán de Juárez, Jalisco",2
+ebc7af44-7a48-4d4f-bfcc-cfeaa728df68,Fraccionamiento La Tuzania,"Av. Tepeyac 3800, Zapopan, Jalisco",1
+73e8b54e-cc37-4dc3-90e1-27bbc4ebf544,Laboratorio Pisa,"Av. España 1840, Guadalajara, Jalisco",1
+0f5becc3-638d-4edf-8bc8-f9b1f4539bf2,Instituto Tecnológico de Tlaquepaque,"Calle Morelos 600, Tlaquepaque, Jalisco",3
+bb0f13f8-6626-41cf-93f2-7183dae69dac,Nave Industrial Logística MX,"Av. López Mateos Sur 7200, Tlajomulco, Jalisco",1
+7407c24e-5135-4b1e-935e-db7d1974183f,Plaza Outlet Guadalajara,"Periférico Sur 8500, Tlajomulco, Jalisco",5
